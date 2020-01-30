@@ -1,12 +1,12 @@
-<p align="center"><img src="https://github.com/gavin-bauer/spacex-dashboard/blob/master/img/header.png"></p>
+<p align="center"><img src="https://github.com/gavin-bauer/explore-spacex-missions/blob/master/img/header.png"></p>
 
 
 <p align="center">
-  <img src="https://github.com/gavin-bauer/spacex-dashboard/blob/master/img/demo.gif?raw=1" hspace="4">
+  <img src="https://github.com/gavin-bauer/explore-spacex-missions/blob/master/img/demo.gif?raw=1" hspace="4">
 </p>
 
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/gavin-bauer/spacex-dashboard">
+  <img alt="GitHub" src="https://img.shields.io/github/license/gavin-bauer/explore-spacex-missions">
 </p>
 
 ---
