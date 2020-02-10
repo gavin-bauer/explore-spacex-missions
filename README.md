@@ -7,6 +7,9 @@
 
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/gavin-bauer/explore-spacex-missions">
+  <a href="http://explore-spacex-missions.herokuapp.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/website-live-brightgreen">
+  </a>
 </p>
 
 ---
