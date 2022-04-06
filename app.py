@@ -12,7 +12,7 @@ import streamlit as  st
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-plt.style.use('seaborn')
+plt.style.use('cyberpunk')
 plt.rcParams['xtick.labelsize'] = 7
 plt.rcParams['ytick.labelsize'] = 7
 plt.rcParams['axes.labelsize'] = 9
